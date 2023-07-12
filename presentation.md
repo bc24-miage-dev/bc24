@@ -15,7 +15,9 @@ nav-menu: true
 		<header class="major">
 			<h2>Objectif</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>L'objectif principal de ce méta projet est de réunir les différentes promotions des L3, M1 et M2 afin de réaliser un POC d'un système de traçabilité de fabrication de produits, de manière totalement sécurisée. Un POC c'est un "Proof Of Concept", autrement dit c'est l'étude de la faisabilité et de la viabilité d'un projet avant de s'y engager.
+		<br>
+		Pour ce faire, nous allons utiliser des tag NFC afin d’identifier les différentes ressources, des raspberry pi pour la lecture de celles-ci, des NTFs qui vont être reliées aux différents tags NFC ainsi qu’une blockchain ou nous allons stocker tous les NFTs grâce aux smart contracts qui vont nous permettre de réaliser un suivi complet des ressources et des artefacts.</p>
 	</div>
 </section>
 
