@@ -30,7 +30,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Raspberri Pi</h3>
+					<h3>Raspberry Pi</h3>
 				</header>
 				<p>C’est un nano ordinateur monocarte qui peut également être utilisé comme lecteur NFC. Pour ce faire, on a besoin d’un module nfc (une carte d’extension ou un module USB) puis le raspberry pi va pouvoir scanner les puces nfc grâce à un script afin de lire et/ou traiter les différentes données. </p>
 				<ul class="actions">
@@ -66,7 +66,7 @@ nav-menu: true
 					<h3>NFT</h3>
 				</header>
 				<p>Un NFT est un token numérique unique qui est utilisé pour représenter la propriété ou la provenance d’un bien immatériel dont le droit d'usage ou de propriété est rattaché au patrimoine d'une personne
-(actif numérique).Lorsqu’un NFT change de propriétaire, la transaction est enregistrée dans une blockchain, ce qui permet de suivre la propriété et l’historique des transactions de celui-ci. Chaque NFT peut être vérifié de manière transparente pour confirmer son authenticité, sa provenance et sa propriété. Ainsi un NFT est unique, indivisible et identifiable.
+(actif numérique). Lorsqu’un NFT change de propriétaire, la transaction est enregistrée dans une blockchain, ce qui permet de suivre la propriété et l’historique des transactions de celui-ci. Chaque NFT peut être vérifié de manière transparente pour confirmer son authenticité, sa provenance et sa propriété. Ainsi un NFT est unique, indivisible et identifiable.
  </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
