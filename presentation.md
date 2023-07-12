@@ -32,7 +32,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Raspberri Pi</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>C’est un nano ordinateur monocarte qui peut également être utilisé comme lecteur NFC. Pour ce faire, on a besoin d’un module nfc (une carte d’extension ou un module USB) puis le raspberry pi va pouvoir scanner les puces nfc grâce à un script afin de lire et/ou traiter les différentes données. </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -48,7 +48,8 @@ nav-menu: true
 				<header class="major">
 					<h3>Tag NFC</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>C'est une technologie de communication sans fil qui est utilisée pour l’échange d’informations entre appareils compatibles NFC. En général nous utilisons cette technologie afin de faire des paiements mobile (apple pay), des transferts de données ou encore des accès sécurisé (verrouillage/déverouillage de porte).
+</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -64,7 +65,9 @@ nav-menu: true
 				<header class="major">
 					<h3>NFT</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Un NFT est un token numérique unique qui est utilisé pour représenter la propriété ou la provenance d’un bien immatériel dont le droit d'usage ou de propriété est rattaché au patrimoine d'une personne
+(actif numérique).Lorsqu’un NFT change de propriétaire, la transaction est enregistrée dans une blockchain, ce qui permet de suivre la propriété et l’historique des transactions de celui-ci. Chaque NFT peut être vérifié de manière transparente pour confirmer son authenticité, sa provenance et sa propriété. Ainsi un NFT est unique, indivisible et identifiable.
+ </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
