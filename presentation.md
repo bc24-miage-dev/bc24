@@ -82,7 +82,44 @@ nav-menu: true
 		<header class="major">
 			<h2>Use cases</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Description</th>
+				<th>Price</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Item1</td>
+				<td>Ante turpis integer aliquet porttitor.</td>
+				<td>29.99</td>
+			</tr>
+			<tr>
+				<td>Item2</td>
+				<td>Vis ac commodo adipiscing arcu aliquet.</td>
+				<td>19.99</td>
+			</tr>
+			<tr>
+				<td>Item3</td>
+				<td> Morbi faucibus arcu accumsan lorem.</td>
+				<td>29.99</td>
+			</tr>
+			<tr>
+				<td>Item4</td>
+				<td>Vitae integer tempus condimentum.</td>
+				<td>19.99</td>
+			</tr>
+			<tr>
+				<td>Item5</td>
+				<td>Ante turpis integer aliquet porttitor.</td>
+				<td>29.99</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
