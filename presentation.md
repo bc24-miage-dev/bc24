@@ -104,8 +104,7 @@ nav-menu: true
 				<td>Cas 3</td>
 				<td>En tant qu’acheteur d’artéfact, je peux obtenir des informations de traçabilité sur toutes les ressources utilisées pour la création de mon artefact juste en scannant le tag NFC correspondant.
 </td>
-			</tr>
-			
+			</tr>	
 		</tbody>
 	</table>
 </div>
