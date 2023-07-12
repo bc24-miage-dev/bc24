@@ -1,7 +1,7 @@
 ---
 title: Présentation
 layout: landing
-content: 'Présentation générale du Méta Projet'
+data: 'Présentation générale du Méta Projet'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
