@@ -109,7 +109,7 @@ nav-menu: true
 	</table>
 </div>
 		<ul class="actions">
-			<li><a href="home.html" class="button next">Retour</a></li>
+			<li><a href="{{ page.url | absolute_url }}">{{ page.title }} class="button next">Retour</a></li>
 		</ul>
 	</div>
 </section>
