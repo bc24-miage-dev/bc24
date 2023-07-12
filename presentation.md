@@ -86,42 +86,31 @@ nav-menu: true
 	<table>
 		<thead>
 			<tr>
-				<th>Name</th>
+				<th>Cas d'utilisations</th>
 				<th>Description</th>
-				<th>Price</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
+				<td>Cas 1</td>
+				<td>En tant que constructeur, je peux prendre possession d’une ressource en scannant son tag NFC. (Change le propriétaire du NFT et ajoute un nouveau bloc avec le propriétaire actuel)
+</td>
 			</tr>
 			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
+				<td>Cas 2</td>
+				<td>En tant que constructeur, je peux consommer les NFTs des ressources pour les combiner dans un nouveau NFT d’artefact. Ce NFT est bien entendu associé à un tag NFC.</td>
 			</tr>
 			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
+				<td>Cas 3</td>
+				<td>En tant qu’acheteur d’artéfact, je peux obtenir des informations de traçabilité sur toutes les ressources utilisées pour la création de mon artefact juste en scannant le tag NFC correspondant.
+</td>
 			</tr>
-			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
+			
 		</tbody>
 	</table>
 </div>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="home.html" class="button next">Retour</a></li>
 		</ul>
 	</div>
 </section>
