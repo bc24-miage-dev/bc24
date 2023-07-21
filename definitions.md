@@ -52,6 +52,10 @@ nav-menu: true
 	</section>
 </section>
 
+<ul class="actions">
+			<li><a href="index.html" class="button next">Retour</a></li>
+		</ul>
+
 
 
 </div>
