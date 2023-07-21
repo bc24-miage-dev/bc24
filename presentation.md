@@ -66,42 +66,6 @@ nav-menu: true
 	</section>
 </section>
 
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Use cases</h2>
-		</header>
-		<div class="table-wrapper">
-	<table>
-		<thead>
-			<tr>
-				<th>Cas d'utilisations</th>
-				<th>Description</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Cas 1</td>
-				<td>En tant que constructeur, je peux prendre possession d’une ressource en scannant son tag NFC. (Change le propriétaire du NFT et ajoute un nouveau bloc avec le propriétaire actuel)
-</td>
-			</tr>
-			<tr>
-				<td>Cas 2</td>
-				<td>En tant que constructeur, je peux consommer les NFTs des ressources pour les combiner dans un nouveau NFT d’artefact. Ce NFT est bien entendu associé à un tag NFC.</td>
-			</tr>
-			<tr>
-				<td>Cas 3</td>
-				<td>En tant qu’acheteur d’artéfact, je peux obtenir des informations de traçabilité sur toutes les ressources utilisées pour la création de mon artefact juste en scannant le tag NFC correspondant.
-</td>
-			</tr>	
-		</tbody>
-	</table>
-</div>
-		<ul class="actions">
-			<li><a href="{{ "" | absolute_url }}/" class="button next">Retour</a></li>
-		</ul>
-	</div>
-</section>
+
 
 </div>
