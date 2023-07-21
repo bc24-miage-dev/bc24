@@ -69,7 +69,7 @@ nav-menu: true
 
  </p>
 				<ul class="actions">
-					<li><a href="smart-tracability.html" class="button">Learn more</a></li>
+					<li><a href="smart-traceability.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
