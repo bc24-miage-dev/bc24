@@ -51,7 +51,7 @@ nav-menu: true
 				<p>Trace Connect est un projet pour les L3 app, l’objectif de celui-ci sera de se concentrer sur la conception et le développement de l’interface utilisateur du système. L’interface devra présenter les informations de traçabilité sur toutes les ressources utilisées pour la création de mon artefact ou encore les informations de traçabilité d'une ressource quelconque.
 </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="trace-connect.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -69,7 +69,7 @@ nav-menu: true
 
  </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="smart-tracability.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
