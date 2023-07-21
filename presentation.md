@@ -1,7 +1,7 @@
 ---
-title: Présentation
+title: Bienvenue dans le Méta Projet
 layout: landing
-data: 'Présentation générale du Méta Projet'
+data: 'SMART BLOCKCHAIN SUPPLY-CHAIN MIAGE PROJECT'
 image: assets/images/presentation.jpg
 nav-menu: true
 ---
