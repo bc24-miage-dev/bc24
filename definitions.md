@@ -51,11 +51,13 @@ nav-menu: true
 		</div>
 	</section>
 </section>
-
-<ul class="actions">
+<section id="three">
+	<div class="inner">
+			<ul class="actions">
 			<li><a href="index.html" class="button next">Retour</a></li>
 		</ul>
-
+	</div>
+</section>
 
 
 </div>
