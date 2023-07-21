@@ -34,7 +34,7 @@ nav-menu: true
 				</header>
 				<p>L’objectif de ce projet destiné aux L3 classiques et d’intégrer la mise en place de la lecture et écriture des tag NFC. Permettant ainsi de pouvoir vérifier à quelle ressource notre tag est relié ou bien de pouvoir associer un tag  NFC à une ressource quelconque. </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="nfc-Trace.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
