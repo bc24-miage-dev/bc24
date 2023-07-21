@@ -2,7 +2,7 @@
 layout: post
 title: NFC-Trace
 description: Lorem ipsum dolor est
-image: assets/images/nfc-Trace.jpg
+image: assets/images/nfc_Trace.jpg
 nav-menu: true
 ---
 
