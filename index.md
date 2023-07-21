@@ -109,7 +109,7 @@ nav-menu: true
 	</table>
 </div>
 		<ul class="actions">
-			<li><a href="{{ "definition.html }}/" class="button next">Définitions</a></li>
+			<li><a href="definition.html" class="button next">Définitions</a></li>
 		</ul>
 	</div>
 </section>
