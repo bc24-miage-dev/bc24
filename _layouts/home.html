@@ -4,6 +4,7 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
+
 <html>
 
 {% include head.html %}
@@ -13,6 +14,7 @@
     {% include header.html %}
 
     <!-- Banner -->
+	<!--
     <section id="banner" class="major">
         <div class="inner">
             <header class="major">
@@ -26,27 +28,36 @@
             </div>
         </div>
     </section>
-
+-->
     <!-- Main -->
     <div id="main">
 
         <!-- One -->
-        {% include tiles.html %}
+    <!--    {% include tiles.html %} -->
 
-        <!-- Two -->
-        <section id="two">
+    </div>
+	
+        <section id="banner" class="style2">
             <div class="inner">
+                <span class="image">
+                    <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+                </span>
                 <header class="major">
-                    <h2>Massa libero</h2>
+
+                    <h1>{{ page.title }}</h1>
+
                 </header>
-                <p>{{ content }}</p>
-                <ul class="actions">
-                    <li><a href="landing.html" class="button next">Get Started</a></li>
-                </ul>
+                <div class="content">
+
+                    {{ page.description }}
+		    {{ page.data }}
+
+                </div>
             </div>
         </section>
 
-    </div>
+    {{ content }}
+
 
     {% include footer.html %}
 
