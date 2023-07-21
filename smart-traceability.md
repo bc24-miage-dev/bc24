@@ -2,7 +2,7 @@
 layout: post
 title: Smart Traceability
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/smartTraceability.jpg
 nav-menu: true
 ---
 
