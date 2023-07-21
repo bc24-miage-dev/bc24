@@ -1,5 +1,5 @@
 ---
-title: Bienvenue dans le Méta Projet
+title: Définitions
 layout: landing
 data: 'SMART BLOCKCHAIN SUPPLY-CHAIN MIAGE PROJECT'
 image: assets/images/presentation.jpg
@@ -10,16 +10,6 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Objectif</h2>
-		</header>
-		<p>L'objectif principal de ce méta projet est de réunir les différentes promotions des L3, M1 et M2 afin de réaliser un POC d'un système de traçabilité de fabrication de produits, de manière totalement sécurisée. Un POC c'est un "Proof Of Concept", autrement dit c'est l'étude de la faisabilité et de la viabilité d'un projet avant de s'y engager.
-		<br>
-		Pour ce faire, nous allons utiliser des tag NFC afin d’identifier les différentes ressources, des raspberry pi pour la lecture de celles-ci, des NTFs qui vont être reliées aux différents tags NFC ainsi qu’une blockchain ou nous allons stocker tous nos NFTs ce qui va nous permettre d'avoir un suivi complet des ressources ainsi que des artefacts.</p>
-	</div>
-</section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -30,7 +20,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NFC-Trace</h3>
+					<h3>Raspberry PI</h3>
 				</header>
 				<p>L’objectif de ce projet destiné aux L3 classiques et d’intégrer la mise en place de la lecture et écriture des tag NFC. Permettant ainsi de pouvoir vérifier à quelle ressource notre tag est relié ou bien de pouvoir associer un tag  NFC à une ressource quelconque. </p>
 				<ul class="actions">
@@ -46,7 +36,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Trace Connect</h3>
+					<h3>Tag NFC</h3>
 				</header>
 				<p>Trace Connect est un projet pour les L3 app, l’objectif de celui-ci sera de se concentrer sur la conception et le développement de l’interface utilisateur du système. L’interface devra présenter les informations de traçabilité sur toutes les ressources utilisées pour la création de mon artefact ou encore les informations de traçabilité d'une ressource quelconque.
 </p>
@@ -63,7 +53,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Smart Traceability</h3>
+					<h3>NFT</h3>
 				</header>
 				<p>Ce projet est pour les élèves de M1, celui-ci a pour objectif de développer des smart contracts et de les déployer sur la blockchain choisie. Cette partie du méta-projet nous servira d’outil / base de données afin de gérer la traçabilité de nos ressources.
 
