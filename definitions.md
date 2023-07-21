@@ -14,53 +14,39 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/nfc_Trace.jpg %}" alt="" data-position="center center" />
-		</a>
+			<img src="{% link assets/images/Raspberry_Pi.jpg %}" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Raspberry PI</h3>
 				</header>
-				<p>L’objectif de ce projet destiné aux L3 classiques et d’intégrer la mise en place de la lecture et écriture des tag NFC. Permettant ainsi de pouvoir vérifier à quelle ressource notre tag est relié ou bien de pouvoir associer un tag  NFC à une ressource quelconque. </p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>C’est un nano ordinateur monocarte qui peut également être utilisé comme un lecteur NFC. Pour ce faire, on a besoin d’un module nfc ( carte d’extension ou module USB) puis le raspberry pi va scanner les puces nfc grâce à un script/logiciel afin de lire et/ou traiter leurs données. </p>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/traceConnect.jpg %}" alt="" data-position="top center" />
-		</a>
+		<img src="{% link assets/images/NFC_tag.png %}" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Tag NFC</h3>
 				</header>
-				<p>Trace Connect est un projet pour les L3 app, l’objectif de celui-ci sera de se concentrer sur la conception et le développement de l’interface utilisateur du système. L’interface devra présenter les informations de traçabilité sur toutes les ressources utilisées pour la création de mon artefact ou encore les informations de traçabilité d'une ressource quelconque.
+				<p>Technologie de communication sans fil qui est utilisée pour l’échange d’informations entre appareils compatibles NFC. En général nous utilisons cette technologie afin de faire des paiements mobile ( apple pay par exemple ), des transferts de données, des accès sécurisé ( dans les transports en communs avec un pass navigo par exemple).
 </p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/smartTraceability.jpg %}" alt="" data-position="25% 25%" />
-		</a>
+			<img src="{% link assets/images/nft.jpg %}" alt="" data-position="25% 25%" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>NFT</h3>
 				</header>
-				<p>Ce projet est pour les élèves de M1, celui-ci a pour objectif de développer des smart contracts et de les déployer sur la blockchain choisie. Cette partie du méta-projet nous servira d’outil / base de données afin de gérer la traçabilité de nos ressources.
+				<p>c’est un token numérique unique qui est utilisé pour représenter la propriété ou la provenance d’un bien immatériel dont le droit d'usage ou de propriété est rattaché au patrimoine d'une personne. Lorsqu’un NFT change de propriétaire, la transaction est enregistrée dans une blockchain, ce qui permet de suivre la propriété et l’historique des transactions de celui-ci. Chaque NFT peut être vérifié de manière transparente pour confirmer son authenticité, sa provenance et sa propriété. Ainsi un NFT est unique, indivisible et identifiable.
+
 
  </p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
