@@ -2,7 +2,7 @@
 layout: post
 title: Trace Connect
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/traceConnect.jpg
 nav-menu: true
 ---
 
