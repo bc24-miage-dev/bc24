@@ -32,15 +32,6 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venen
         td {
             border: 1px solid #1b1b1b;
         }
-        .scroll {
-            width: 1200px;
-            overflow: scroll;
-        }
-        ::-webkit-scrollbar {
-            height: 4px;
-            width: 4px;
-            border: 1px solid #d5d5d5;
-        }
     </style>
 </head>
 
