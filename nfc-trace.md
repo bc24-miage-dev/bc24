@@ -23,9 +23,6 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venen
             padding: px;
             text-align: center;
         }
-        th {
-            background-color: #f2f2f2;
-        }
         td.task {
             background-color: #57BB8A;
         }
@@ -36,7 +33,7 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venen
             border: 1px solid #1b1b1b;
         }
         .scroll {
-            width: 800px;
+            width: 1200px;
             overflow: scroll;
         }
         ::-webkit-scrollbar {
