@@ -6,11 +6,29 @@ image: assets/images/nfc_Trace.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+<h2 id="content">Objectif de NFC-Trace </h2>
+<hr />
+<p> L’objectif du projet est de mettre en place un système permettant la lecture et l’écriture des tags NFC à l’aide du Raspberry Pi, d’un module NFC et de tags NFC. Ce système permettra aux étudiants d'interagir avec les ressources associées aux tags NFC de manière pratique et efficace.</p>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3>Étude du matériel</h3>
+		<p>Cette tâche consiste à établir une évaluation approfondie du matériel nécessaire pour l’intégralité du projet NFC-Trace. Ici, les élèves devront réaliser un examen détaillé du matériel en prenant en compte la fonctionnalité et la compatibilité de ceux-ci. Si certains de ces composants s’avèrent non fonctionnels, incompatibles ou problématiques. Les élèves devront identifier et indiquer le nouveau matériel à utiliser afin d’assurer le bon déroulement du projet. Cette tâche est fondamentale pour garantir que tous les éléments du projet sont non seulement réalisables, mais aussi efficaces et sûrs.
+</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Définir le format de lecture</h3>
+		<p>Cette tâche consiste à déterminer la manière dont les informations stockées dans le tag NFC seront organisées et structurées afin de permettre une lecture correcte et une interprétation des données par le lecteur NFC.Plusieurs questions vont donc être posées.
+            <ul>
+                <li>type de données ? ( url - texte - métadonnées …)</li>
+                <li>structure de données ? (JSON - XML - … )</li>
+            </ul>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+
+</p>
+	</div>
+
+
 <head>
     <style>
         table {
