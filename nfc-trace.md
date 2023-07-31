@@ -17,16 +17,32 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Définir le format de lecture</h3>
-		<p>Cette tâche consiste à déterminer la manière dont les informations stockées dans le tag NFC seront organisées et structurées afin de permettre une lecture correcte et une interprétation des données par le lecteur NFC.Plusieurs questions vont donc être posées.
+		<p>Cette tâche consiste à déterminer la manière dont les informations stockées dans le tag NFC seront organisées et structurées afin de permettre une lecture correcte et une interprétation des données par le lecteur NFC.Plusieurs questions vont donc être posées.</p>
             <ul>
                 <li>type de données ? ( url - texte - métadonnées …)</li>
                 <li>structure de données ? (JSON - XML - … )</li>
             </ul>
 
 
-
-</p>
+  
+<div class="4u 12u$(medium)">
+		<h3>Configurer les Raspberry Pi</h3>
+		<p>Cette tâche consiste principalement à préparer les raspberry pi pour qu’ils puissent remplir leurs rôles spécifiques dans ce projet. Ici ils vont être utilisés pour lire des tags NFC via des modules NFC, afficher une interface utilisateur sur un écran tactile et potentiellement utiliser une caméra pour prendre en photos les ressources.</p>
 	</div>
+	<div class="4u 12u$(medium)">
+		<h3>Implémentation de la lecture d'un Tag NFC</h3>
+		<p>Cette tâche consiste à lire le contenu d’un tag NFC	en faisant communiquer un Raspberry pi avec un module NFC. Cette tâche nous permet d’avoir un système capable d'interagir avec des tag NFC avec pour but de récupérer des informations stockés dans ces Tags.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>Implémentation de l'écriture d'un Tag NFC</h3>
+		<p>Cette tâche consiste à créer le programme nécessaire sur un rasPberry Pi pour interagir avec un module NFC et écrire du contenu dans un tag NFC. Le but final de cette tâche est de faire en sorte que le Raspberry Pi soit capable de modifier les informations stockées dans un tag NFC conformément à la logique et aux données définies dans le programme.</p>
+	</div>
+
+ <h5>Une fois le projet terminé</h5>
+ <div class="box">
+	<p>Les étudiants pourront utiliser le Raspberry Pi équipé du module NFC pour lire les informations stockées dans les tags NFC. Grâce à cette lecture, les étudiants pourront vérifier à quelle ressource  un tag est relié. De plus, ils pourront également utiliser le Raspberry Pi pour écrire des informations dans les tags NFC. Cela leur permettra d'associer un tag NFC à une ressource spécifique ou de mettre à jour les données stockées dans le tag en fonction des besoins du projet.</p>
+</div>
+</div>
 
 
 <head>
