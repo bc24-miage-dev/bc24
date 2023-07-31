@@ -20,7 +20,7 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venen
         th,
         td {
             border: 1px solid black;
-            padding: px;
+            padding: 8px;
             text-align: center;
         }
         td.task {
