@@ -29,13 +29,9 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venen
             background-color: #f2f2f2;
         }
         td.task {
-            background-color: #cceeff;
-        }
-        td.week {
-            background-color: #99ccff;
+            background-color: #57BB8A;
         }
         td.day {
-            background-color: #b3d9ff;
             padding: 4px;
         }
         td {
