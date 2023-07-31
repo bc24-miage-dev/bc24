@@ -48,7 +48,6 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venen
 </head>
 
 <body>
-    <h1>Diagramme de Gantt</h1>
     <div class="scroll">
         <table>
             <tr>
