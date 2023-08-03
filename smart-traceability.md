@@ -21,7 +21,7 @@ nav-menu: true
 
 
   
-<div class="4u 12u$(small)">
+<div class="4u 12u$(medium)">
 		<h3>Conception et développement des smart contracts</h3>
 		<p> L’objectif de cette tâche est de développer les smart contracts qui permettent d’enregistrer et de gérer les NFTs associés aux ressources, de suivre les transactions de transfert de propriété, et de fournir des mécanismes de traçabilité complets et sécurisés sur la blockchain.</p>
 	</div>
