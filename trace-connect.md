@@ -9,12 +9,12 @@ nav-menu: true
 <hr />
 <p> Trace Connect est un projet pour les L3 app, l’objectif de celui-ci sera de se concentrer sur la conception et le développement de l’interface utilisateur du système. L’interface devra présenter les informations de traçabilité sur toutes les ressources utilisées pour la création de mon artefact ou encore les informations de traçabilité d'une ressource quelconque.</p>
 <div class="row">
-	<div class="4u 12u$(medium)">
+	<div class="10u 12u$(medium)">
 		<h3>Étude du matériel</h3>
 		<p>Comme pour NFC-Trace, une étude du matériel est necessaire. Elle a pour objectif d'établir une évaluation approfondie du matériel nécessaire pour l’intégralité du projet Trace Connect. Ici, les élèves devront réaliser un examen détaillé du matériel en prenant en compte la fonctionnalité et la compatibilité de ceux-ci. Si certains de ces composants s’avèrent non fonctionnels, incompatibles ou problématiques. Les élèves devront identifier et indiquer le nouveau matériel à utiliser afin d’assurer le bon déroulement du projet. Cette tâche est fondamentale pour garantir que tous les éléments du projet sont non seulement réalisables, mais aussi efficaces et sûrs.
 </p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="10u$ 12u$(medium)">
 		<h3>Définition des fonctionnalités</h3>
 		<p>En se basant sur les attendus des m1 ainsi que les exigences du projet. Les élèves devront donc identifier et définir les fonctionnalités clés de Trace connect.</p>
 	</div>
