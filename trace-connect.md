@@ -136,33 +136,27 @@ nav-menu: true
                 <td colspan="40"></td>
             </tr>
             <tr>
-                <td>Définir le format de lecture</td>
+                <td>Définition des fonctionnalités</td>
                 <td colspan="7"></td>
                 <td colspan="3" class="task"></td>
                 <td colspan="40"></td>
             </tr>
             <tr>
-                <td>Configurer les Raspberry Pi</td>
+                <td>Conception de l’interface</td>
                 <td colspan="15"></td>
                 <td colspan="5" class="task"></td>
                 <td colspan="40"></td>
             </tr>
             <tr>
-                <td>Implémentation de la lecture d'un Tag NFC</td>
+                <td>Développement de l’interface</td>
                 <td colspan="20"></td>
                 <td colspan="8" class="task"></td>
                 <td colspan="40"></td>
             </tr>
             <tr>
-                <td>Implémentation de l'ecriture d'un Tag NFC</td>
+                <td>Documentation</td>
                 <td colspan="28"></td>
                 <td colspan="8" class="task"></td>
-                <td colspan="40"></td>
-            </tr>
-            <tr>
-                <td>Rendu projet (livrable)</td>
-                <td colspan="40"></td>
-                <td colspan="1" class="task"></td>
                 <td colspan="40"></td>
             </tr>
         </table>
