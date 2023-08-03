@@ -1,7 +1,6 @@
 ---
 layout: post
 title: NFC-Trace
-description: Lorem ipsum dolor est
 image: assets/images/nfc_Trace.jpg
 nav-menu: true
 ---
@@ -171,5 +170,6 @@ nav-menu: true
                 <td colspan="40"></td>
             </tr>
         </table>
+	<a href="https://docs.google.com/spreadsheets/d/1n8Yd__z0773qt-cNkLsTYXXuelVUgRiy4jZWDAqDDBY/edit#gid=42398394" ><p>Voir le diagramme sur google sheet</p> </a>
     </div>
 </body>
