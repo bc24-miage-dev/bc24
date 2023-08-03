@@ -62,7 +62,7 @@ nav-menu: true
             background-color: #57BB8A;
         }
         td.day {
-            padding: 4px;
+            padding: 6px;
         }
         td {
             border: 1px solid #1b1b1b;
