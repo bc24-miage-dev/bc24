@@ -172,4 +172,34 @@ nav-menu: true
         </table>
 	<a href="https://docs.google.com/spreadsheets/d/1n8Yd__z0773qt-cNkLsTYXXuelVUgRiy4jZWDAqDDBY/edit#gid=674376377" target="_blank"><p>Voir le diagramme sur google sheet</p> </a>
     </div>
+	<h2 id="content">Les Tags NFC </h2>
+<hr />
+	<p>Les tags NFC (Near Field Communication) sont des dispositifs de communication sans fil qui permettent aux appareils électroniques de communiquer entre eux lorsqu'ils sont à proximité l'un de l'autre. Ils sont utilisés dans une variété d'applications allant des paiements sans contact aux accès sécurisés et bien plus encore. Nous allons explorer les caractéristiques, les avantages et les différences entre les tags NFC et la RFID (Radio-Frequency Identification).</p>
+	<div class="row">
+	<div class="10u 12u$(medium)">
+		<h3>Qu'est-ce que le tag NFC et quel est son intérêt ?</h3>
+		<p>Le tag NFC est un petit dispositif qui contient une puce électronique et une antenne. Il fonctionne en utilisant la technologie sans fil à courte portée pour établir une connexion avec d'autres appareils compatibles NFC. Le principal avantage du NFC réside dans sa simplicité d'utilisation, car il suffit de rapprocher deux appareils pour qu'ils communiquent, sans avoir besoin d'une alimentation externe pour le tag.</p>
+<p>Selon SpringCard, le tag NFC Forum Type 2 (norme ISO/IEC 14443-3A) est particulièrement intéressant car il permet de stocker une petite quantité de données et est compatible avec une large gamme d'appareils NFC.
+
+</p>
+	</div>
+	<div class="10u$ 12u$(medium)">
+		<h3>Différences entre la RFID et le NFC</h3>
+		<p>La RFID est une technologie similaire au NFC, mais elle présente quelques différences importantes. Selon Omnitec Systems, la principale différence réside dans la distance de communication et les applications pour lesquelles elles sont optimisées.</p>
+		<ul>
+			<li>Distance de communication : Le NFC fonctionne généralement à une distance maximale de quelques centimètres, tandis que la RFID peut fonctionner sur de plus grandes distances, allant jusqu'à plusieurs mètres, voire plus. </li>
+			<li>Applications : Le NFC est principalement utilisé pour des applications nécessitant une communication de proximité, telles que les paiements sans contact et le partage d'informations entre appareils mobiles. La RFID, quant à elle, est utilisée pour le suivi d'objets ou d'animaux sur de plus grandes distances, comme dans la logistique ou l'identification d'animaux domestiques.</li>
+		</ul>
+	</div>
+	<div class="10u$ 12u$(medium)">
+		<h3>Avantages des tags NFC</h3>
+		<p>Les tags NFC offrent plusieurs avantages significatifs :</p>
+		<ul>
+			<li>Simplicité d'utilisation : Comme mentionné précédemment, le simple fait de rapprocher deux appareils suffit pour établir une communication, ce qui rend l'utilisation du NFC très intuitive.</li>
+			<li>Sécurité : Le NFC utilise des protocoles de sécurité avancés pour empêcher toute interception ou falsification des données échangées, ce qui en fait une option sûre pour les paiements et autres transactions sensibles. 
+</li>
+			<li>Compatibilité universelle : Les tags NFC fonctionnent avec une grande variété d'appareils, notamment les smartphones, les tablettes et les autres dispositifs compatibles NFC. </li>
+			<li>Coût abordable : Les tags NFC sont généralement abordables, ce qui les rend accessibles à de nombreuses applications, y compris celles à faible budget.</li>
+		</ul>
+	</div>
 </body>
