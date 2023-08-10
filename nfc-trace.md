@@ -202,4 +202,5 @@ nav-menu: true
 			<li>Coût abordable : Les tags NFC sont généralement abordables, ce qui les rend accessibles à de nombreuses applications, y compris celles à faible budget.</li>
 		</ul>
 	</div>
+ </div>
 </body>
