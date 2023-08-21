@@ -8,7 +8,7 @@
 
 	.contact-method {
 		margin: 0 0 _size(element-margin) 0;
-		padding-left: 3.25em;
+		
 		position: relative;
 
 		.icon {
@@ -21,3 +21,6 @@
 			margin: 0 0 (_size(element-margin) * 0.25) 0;
 		}
 	}
+	.contact-mail {
+		padding-left: 3.25em;
+}
