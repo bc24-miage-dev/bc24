@@ -48,6 +48,7 @@ nav-menu: true
 <head>
 	<a href="https://docs.google.com/spreadsheets/d/1n8Yd__z0773qt-cNkLsTYXXuelVUgRiy4jZWDAqDDBY/edit#gid=674376377" target="_blank"><h2>Voir le diagramme sur google sheet</h2> </a>
     </div>
+	<br>
 	<h2 id="content">Les Tags NFC </h2>
 	<p>Les tags NFC (Near Field Communication) sont des dispositifs de communication sans fil qui permettent aux appareils électroniques de communiquer entre eux lorsqu'ils sont à proximité l'un de l'autre. Ils sont utilisés dans une variété d'applications allant des paiements sans contact aux accès sécurisés et bien plus encore. Nous allons explorer les caractéristiques, les avantages et les différences entre les tags NFC et la RFID (Radio-Frequency Identification).</p>
 	<div class="row">
