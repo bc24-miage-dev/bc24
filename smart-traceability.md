@@ -48,7 +48,7 @@ nav-menu: true
 
 
 <body>
-      <a href="https://docs.google.com/spreadsheets/d/1n8Yd__z0773qt-cNkLsTYXXuelVUgRiy4jZWDAqDDBY/edit#gid=80268145" target="_blank"><h2>Voir le diagramme sur google sheet</h2>
+      <a href="https://docs.google.com/spreadsheets/d/1n8Yd__z0773qt-cNkLsTYXXuelVUgRiy4jZWDAqDDBY/edit#gid=80268145" target="_blank"><h2>Voir le diagramme sur google sheet</h2></a>
 <br>
 <br>
  <h2 id="content">Pourquoi choisir Binance Smart Chain comme Blockchain ?</h2>
