@@ -47,33 +47,9 @@ nav-menu: true
 
 
 
-<head>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        th,
-        td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: center;
-        }
-        td.task {
-            background-color: #57BB8A;
-        }
-        td.day {
-            padding: 6px;
-        }
-        td {
-            border: 1px solid #1b1b1b;
-        }
-    </style>
-</head>
-
 <body>
       <a href="https://docs.google.com/spreadsheets/d/1n8Yd__z0773qt-cNkLsTYXXuelVUgRiy4jZWDAqDDBY/edit#gid=80268145" target="_blank"><h2>Voir le diagramme sur google sheet</p> </h2>
-    </div>
+<br>
 <br>
  <h2 id="content">Pourquoi choisir Binance Smart Chain comme Blockchain ?</h2>
 <hr />
