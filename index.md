@@ -30,7 +30,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NFC-Trace</h3>
+					<h3>NFC-Trace  ( L3 Classique )</h3>
 				</header>
 				<p>L’objectif de ce projet destiné aux L3 classiques et d’intégrer la mise en place de la lecture et écriture des tag NFC. Permettant ainsi de pouvoir vérifier à quelle ressource notre tag est relié ou bien de pouvoir associer un tag  NFC à une ressource quelconque. </p>
 				<ul class="actions">
@@ -46,7 +46,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Trace Connect</h3>
+					<h3>Trace Connect  (L3 Apprentissage )</h3>
 				</header>
 				<p>Trace Connect est un projet pour les L3 app, l’objectif de celui-ci sera de se concentrer sur la conception et le développement de l’interface utilisateur du système. L’interface devra présenter les informations de traçabilité sur toutes les ressources utilisées pour la création de mon artefact ou encore les informations de traçabilité d'une ressource quelconque.
 </p>
@@ -63,7 +63,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Smart Traceability</h3>
+					<h3>Smart Traceability    ( M1 )</h3>
 				</header>
 				<p>Ce projet est pour les élèves de M1, celui-ci a pour objectif de développer des smart contracts et de les déployer sur la blockchain choisie. Cette partie du méta-projet nous servira d’outil / base de données afin de gérer la traçabilité de nos ressources.
 
