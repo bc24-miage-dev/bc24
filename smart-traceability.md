@@ -74,9 +74,9 @@ nav-menu: true
 	<div class="10u$ 12u$(medium)">
 		<h3>Sécurité et décentralisation</h3>
 		<p>BSC s'appuie sur un mécanisme de consensus de type Proof of Staked Authority (PoSA) qui garantit un niveau élevé de sécurité et de décentralisation. Bien qu'il ne soit pas aussi décentralisé qu'Ethereum, BSC maintient néanmoins un niveau de sécurité adéquat pour la majorité des cas d'utilisation. Pour notre projet universitaire, la sécurité des actifs numériques et des données sensibles est essentielle, et BSC offre un bon équilibre entre sécurité et performances.</p>
+	</div>
 		<div class="box">
 	<p>En conclusion, Binance Smart Chain (BSC) se positionne comme une blockchain idéale pour notre projet de traçabilité de fabrication de produits avec des NFT. Ses faibles frais de transaction, son évolutivité, sa compatibilité avec Ethereum, sa communauté active et son niveau de sécurité en font un choix judicieux pour répondre à nos besoins universitaires tout en maintenant des coûts raisonnables. L'utilisation de BSC nous permettra de créer un système de traçabilité robuste et sécurisé, permettant aux constructeurs et aux acheteurs d'artefacts d'obtenir des informations fiables sur les ressources utilisées dans la fabrication des produits.</p>
-</div>
 	</div>
  </div>
 
