@@ -44,10 +44,6 @@ nav-menu: true
  <div class="box">
 	<p>Nous aurons donc une solution complète et sécurisée pour la gestion et la traçabilité des ressources dans le processus de fabrication de produits. Grâce à la blockchain et aux smart contracts, le système garantira une traçabilité immuable et une gestion transparante des ressources tout au long de leur cycle de vie.</p>
 </div>
-
-
-
-<body>
       <a href="https://docs.google.com/spreadsheets/d/1n8Yd__z0773qt-cNkLsTYXXuelVUgRiy4jZWDAqDDBY/edit#gid=80268145" target="_blank"><h2>Voir le diagramme sur google sheet</h2></a>
 <br>
 <br>
@@ -80,5 +76,3 @@ nav-menu: true
 	</div>
  </div>
 
- 
-</body>
