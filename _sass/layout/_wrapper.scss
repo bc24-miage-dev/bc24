@@ -20,9 +20,6 @@
 
 		> * {
 			@include inner;
-			> .inner{
-				    justify-content: center;
-			}
 		}
 
 		@include breakpoint(small) {
