@@ -8,22 +8,10 @@
 					<h3>Email</h3>
 					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 				</div>
-			</section>
-			<section>
 				
 			</section>
 			<section>
-				
-			</section>
-		</section>
-	</div>
-</section>
-
-<!-- Footer -->
-<br>
-<footer id="footer" style=" margin-left : 20px" >
-	<div class="inner">
-		<ul class="icons">
+				<ul class="icons">
 			{% for key_value in site.socials %}
 				{% if key_value[1] %}
 					<li>
@@ -34,6 +22,15 @@
 				{% endif %}
 			{% endfor %}
 		</ul>
+			</section>
+		</section>
+	</div>
+</section>
+
+<!-- Footer -->
+<br>
+<footer id="footer" style=" margin-left : 20px" >
+	<div class="inner">
 		<ul class="copyright">
 			<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
 
