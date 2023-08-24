@@ -75,7 +75,7 @@ nav-menu: true
 		</div>
 	</section>
  	<section>
-		<div class="content">
+		<div class="content" style="width : 100%">
 			<div class="inner">
 				<header class="major">
 					<h3>Mémoire de recherche (M2)</h3>
