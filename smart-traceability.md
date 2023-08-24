@@ -9,19 +9,19 @@ nav-menu: true
 <hr />
 <p>Ce projet est pour les élèves de M1, celui-ci a pour objectif de développer des smart contracts et de les déployer sur la blockchain choisie. Cette partie du méta-projet nous servira d’outil / base de données afin de gérer la traçabilité de nos ressources.</p>
 <div class="row">
-	<div>
+	<div class="10u 12u$(medium)">
 		<h3>Définition des attendu des autres projets</h3>
 		<p>Afin d’éviter de potentielles incompatibilités,  les élèves de M1 vont devoir exprimer leurs attendus des 2 autres projets. Tel que : la définition des critères de traçabilité, les exigences en matière d'interopérabilité. Le tout rédiger et documenter de manière claire et précise.
 </p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="10u$ 12u$(medium)">
 		<h3>Modélisation des Intéractions avec la blockchain</h3>
 		<p>Les élèves devront définir de manière détaillée comment les différents composants du projet vont interagir avec la blockchain via un  diagramme de séquence. La modélisation de ces intéractions permettra de déterminer comment les différentes ressources seront enregistrées, mise à jour, consultées et tracées sur la blockchain.</p>
 	</div>
 
 
   
-<div class="4u 12u$(medium)">
+<div class="10u 12u$(medium)">
 		<h3>Conception et développement des smart contracts</h3>
 		<p> L’objectif de cette tâche est de développer les smart contracts qui permettent d’enregistrer et de gérer les NFTs associés aux ressources, de suivre les transactions de transfert de propriété, et de fournir des mécanismes de traçabilité complets et sécurisés sur la blockchain.</p>
 	</div>
