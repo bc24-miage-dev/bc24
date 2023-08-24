@@ -25,17 +25,17 @@ nav-menu: true
 		<h3>Conception et développement des smart contracts</h3>
 		<p> L’objectif de cette tâche est de développer les smart contracts qui permettent d’enregistrer et de gérer les NFTs associés aux ressources, de suivre les transactions de transfert de propriété, et de fournir des mécanismes de traçabilité complets et sécurisés sur la blockchain.</p>
 	</div>
-	<div class="4u 12u$(medium)">
+	<div class="6u 12u$(medium)">
 		<h3>Déploiement des smart contract sur la Blockchain</h3>
 		<p> Cette tâche consiste à publier les smart contracts développés précédemment sur la blockchain afin qu’ils soient fonctionnels et accessibles à tous les utilisateurs. Ce déploiement est une étape importante, car c’est à ce moment là que les contrats deviennent effectifs et qu’ils commencent à interagir avec la blockchain et les autres composants du système de traçabilité.
 </p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="6u$ 12u$(medium)">
 		<h3>Intégration du projet NFC-Trace</h3>
 		<p>Les élèves de M1 vont se charger des intégrations des autres projets dans smart traceability. L’objectif de cette tâche est d’intégrer les résultats du projet  “NFC-Trace“  dans celui-ci, afin de permettre la création et la gestion des NFTs représentant les ressources identifiées par les tags NFC, et de stocker ces NFTs sur la blockchain pour une traçabilité complète.
 </p>
 	</div>
- <div class="4u$ 12u$(medium)">
+ <div class="10u$ 12u$(medium)">
 		<h3>Intégration du projet Trace Connect</h3>
 		<p>C’est également une tâche d'intégration mais cette tâche va permettre d’intégrer la visualisation et la gestion des informations de traçabilité sur l’interface utilisateur du système, en s’appuyant sur les données enregistrées sur la blockchain. </p>
 	</div>
