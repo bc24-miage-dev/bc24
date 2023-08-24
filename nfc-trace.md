@@ -42,7 +42,7 @@ nav-menu: true
  <div class="box">
 	<p>Les étudiants pourront utiliser le Raspberry Pi équipé du module NFC pour lire les informations stockées dans les tags NFC. Grâce à cette lecture, les étudiants pourront vérifier à quelle ressource  un tag est relié. De plus, ils pourront également utiliser le Raspberry Pi pour écrire des informations dans les tags NFC. Cela leur permettra d'associer un tag NFC à une ressource spécifique ou de mettre à jour les données stockées dans le tag en fonction des besoins du projet.</p>
 </div>
-	<a href="https://docs.google.com/spreadsheets/d/1n8Yd__z0773qt-cNkLsTYXXuelVUgRiy4jZWDAqDDBY/edit#gid=674376377" target="_blank"><h2>Voir le diagramme sur google sheet</h2> </a>
+	<a href="https://docs.google.com/spreadsheets/d/1n8Yd__z0773qt-cNkLsTYXXuelVUgRiy4jZWDAqDDBY/edit#gid=674376377" target="_blank" style="text-decoration : none"><h2>Voir le diagramme sur google sheet</h2> </a>
 	<br>
  <div>
 	<h2 id="content" style="margin-top: 10px">Les Tags NFC </h2>
