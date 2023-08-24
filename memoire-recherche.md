@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: Mémoire de Recherche
 nav-menu: true
