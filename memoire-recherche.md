@@ -1,4 +1,4 @@
----
+ ---
 layout: post
 title: Mémoire de Recherche
 image: 
@@ -12,7 +12,7 @@ nav-menu: true
 <p>La solution proposée tire parti des NFT composables pour représenter numériquement les dispositifs médicaux reconditionnés et leurs pièces de rechange (à la même image que le méta-projet). Elle est soutenue par des smart contracts sur la blockchain Ethereum et utilise le stockage décentralisé IPFS pour les métadonnées. La solution se distingue également des autres par sa capacité à mettre à jour dynamiquement les NFT pour refléter les changements lors de la remise à neuf. Une comparaison avec d'autres systèmes a mis en évidence ses avantages uniques, et les chercheurs ont suggéré que cette approche pourrait également être bénéfique pour d'autres industries/domaine.</p>
 
 <h2 id="content">Étude académique du projet suivant un angle particulier </h2>
-	<hr />
+<hr />
 <p>Quant à elle, cette etude ce concentrera sur étudier la solution en suivant un angle particulier tels que : la sécurité, la performance, la vie privée, et autre... .</p>
 
 
