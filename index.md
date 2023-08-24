@@ -75,9 +75,6 @@ nav-menu: true
 		</div>
 	</section>
  	<section>
-		<a href="nfc-trace.html" class="image">
-			<img src="{% link assets/images/nfc_Trace.jpg %}" alt="" data-position="center center" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -86,7 +83,7 @@ nav-menu: true
 				<p>Dans cette section, nous allons parler des mémoires de recherches en lien avec ce projet. Nous allons séparer les recherches en 2 parties, la première sera une étude académique du POC dans un domaine particulier tandis que la deuxième portera sur une étude académique de la solution suivant un angle particulier (sécurité - performance - vie privée ...)
 				</p>
 				<ul class="actions">
-					<li><a href="nfc-trace.html" class="button">Learn more</a></li>
+					<li><a href="memoire-recherche.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
