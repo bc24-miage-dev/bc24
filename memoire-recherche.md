@@ -1,7 +1,6 @@
  ---
 layout: post
 title: Mémoire de Recherche
-image: 
 nav-menu: true
 ---
 
