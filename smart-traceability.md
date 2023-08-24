@@ -9,7 +9,7 @@ nav-menu: true
 <hr />
 <p>Ce projet est pour les élèves de M1, celui-ci a pour objectif de développer des smart contracts et de les déployer sur la blockchain choisie. Cette partie du méta-projet nous servira d’outil / base de données afin de gérer la traçabilité de nos ressources.</p>
 <div class="row">
-	<div class="4u 12u$(medium)">
+	<div>
 		<h3>Définition des attendu des autres projets</h3>
 		<p>Afin d’éviter de potentielles incompatibilités,  les élèves de M1 vont devoir exprimer leurs attendus des 2 autres projets. Tel que : la définition des critères de traçabilité, les exigences en matière d'interopérabilité. Le tout rédiger et documenter de manière claire et précise.
 </p>
