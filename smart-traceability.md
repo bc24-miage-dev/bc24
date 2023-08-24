@@ -46,11 +46,9 @@ nav-menu: true
 </div>
       <a href="https://docs.google.com/spreadsheets/d/1n8Yd__z0773qt-cNkLsTYXXuelVUgRiy4jZWDAqDDBY/edit#gid=80268145" target="_blank"><h2>Voir le diagramme sur google sheet</h2></a>
 <br>
-<br>
  <h2 id="content">Pourquoi choisir Binance Smart Chain comme Blockchain ?</h2>
 <hr />
 	<p>Le méta projet avec comme objectif la création d’un système de traçabilité de fabrication de produits avec des NFT (Tokens Non Fongibles) nécessite une blockchain performante, évolutive et rentable. Binance Smart Chain (BSC) s'avère être une option très pertinente pour répondre à ces besoins spécifiques. Je vais vous expliquer pourquoi je pense que BSC est une blockchain idéale pour ce projet.</p>
-	<div class="row">
 	<div class="10u 12u$(medium)">
 		<h3>Faibles frais de transaction</h3>
 		<p>BSC est réputée pour ses frais de transaction considérablement bas par rapport à d'autres blockchains populaires telles qu'Ethereum. Cela est essentiel pour notre projet, car il implique un grand nombre de transactions liées à la création, au suivi et au transfert de NFT. Avec des frais de transaction réduits, notre projet reste économiquement viable, même avec des ressources limitées.</p>
