@@ -1,17 +1,17 @@
 # site settings
 title: BC24
 subtitle: Smart Blockchain Supply-Chain MIAGE Project
-email: nicolas.herbaut@univ-paris1.fr
+email: nicolas.herbaut@miage.dev
 description: Smart Blockchain Supply-Chain MIAGE Project
 baseurl: "/"
 url: https://bc24.miage.dev
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 90 rue de Tolbiac
+city: Paris
+state: 
+zip_code: 75013
+country: France
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
