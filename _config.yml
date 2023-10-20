@@ -29,7 +29,7 @@ socials:
   LinkedIn: 
   Twitter: 
   Facebook:
-  Slack:
+  Slack: https://discord.gg/ssFtpApZz2
 
 # build settings
 markdown: kramdown
