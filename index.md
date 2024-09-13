@@ -24,13 +24,31 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="resultats.html" class="image">
+			<img src="{% link assets/images/results.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+				<h3>Résultats</h3>
+				</header>
+				<p>Retrouvez les résulats du projet, les mémoires, documents techniques et articles de recherche</p>
+				<ul class="actions">
+					<li><a href="resultats.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+		<section>
 		<a href="nfc-trace.html" class="image">
-			<img src="{% link assets/images/nfc_Trace.jpg %}" alt="" data-position="center center" />
+		<img src="{% link assets/images/nfc_Trace.jpg %}" alt="" data-position="center center" />
+			
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>NFC-Trace  ( L3 Classique )</h3>
+					
 				</header>
 				<p>L’objectif de ce projet destiné aux L3 classiques et d’intégrer la mise en place de la lecture et écriture des tag NFC. Permettant ainsi de pouvoir vérifier à quelle ressource notre tag est relié ou bien de pouvoir associer un tag  NFC à une ressource quelconque. </p>
 				<ul class="actions">
