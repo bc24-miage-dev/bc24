@@ -41,5 +41,5 @@ nav-menu: true
 
 ### Draft
 
-* [A blockchain-based model for fungible assets and secure transformation processes traceability: an application to agro-food supply chain (Nicolas Herbaut, Etienne Baumgartner, Mehdi Chebbah, Chadi Grolleau-Raoux, Hugo Marques, Marieme Sow, Quentin Tambone, Paul-Cesar Toux)](assets/pdf/bc24-draft.pdf)
+* [Nicolas Herbaut, Eddy Kambilo, Yuntian Ding, "A Blockchain-based model for fungible assets and secure transformation processes traceability." In the proceedings of Blockchain for Information Systems Engineering - B4ISE25 , 2025.)](assets/pdf/bc24-draft.pdf)
 
