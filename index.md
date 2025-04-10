@@ -9,6 +9,19 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
+<section id="paper">
+	<div class="inner">
+		<header class="major">
+			<h2>Recherche</h2>
+		</header>
+		<p>Notre Article "A Blockchain-based model for fungible assets and secure transformation processes traceability" a été accepté au workshop " Blockchain for Information Systems Engineering" de la conference CAiSE 2025!
+		</p>
+		<p>Retrouver l'article et les travaux sur le <a href="https://github.com/bc24-miage-dev">repository github></a></p>
+		
+	</div>
+</section>
+
+
 <!-- One -->
 <section id="one">
 	<div class="inner">
